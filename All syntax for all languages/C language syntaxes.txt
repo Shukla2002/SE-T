@@ -1,0 +1,131 @@
+All syntax for c language
+
+
+1) Starting syntax
+
+#include<stdio.h>
+
+main()
+{
+	code
+}
+
+
+
+2)Condition syntax 
+
+
+1) if and else
+
+if(condition)
+
+{
+	statment;
+}
+
+else()
+{
+	statment;
+}
+
+
+
+2) nested if 
+
+
+if(condition)
+{
+	statment;
+	
+	if(condtion)
+
+	{
+		statment;
+	}
+	
+	else
+
+	{
+		statment;
+	}
+
+}
+
+else
+{
+	if(condition)
+	{
+		statement;
+	}
+	
+	else
+
+	{
+		statment;
+	}
+}
+
+
+
+
+
+
+3) Switch syntax:
+
+
+switch()
+{
+	case 1 :
+		statment;
+	break;
+
+	case 2 :
+		statment;
+	break;
+
+	default :
+		statment;
+
+}
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+Looping Syntax
+
+
+
+1) For loop
+
+
+for(counter1;counter2;counter3)
+
+
+for(intialization;condition;Updation)
+
+
+Syntax : 
+
+for(counter1;counter2;counter3)
+
+{
+	statment;
+}
+
+
+
+2) nested for loop
+
+
+for(counter1;counter2;counter3)
+
+{
+	for(counter1;counter2;counter3)
+
+	{
+		statment;
+	}
+}
+

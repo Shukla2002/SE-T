@@ -1,0 +1,21 @@
+# -> Pre defined
+
+include -> to add something
+
+stdio.h -> standard input output header file
+
+
+void main()
+{
+	block
+}
+
+
+printf() to display something on screen
+
+scanf() to accept value from user 
+
+
+
+
+

@@ -1,0 +1,151 @@
+1) What is Programme?
+
+Programme is set of Instruction 
+
+Example : Sometimes mom gives you instruction to do someting go and bring vegitables for me that is programme.
+
+
+Programming : The method of create programming it is called programming.
+
+
+
+2) Types of languages
+
+1)Procedural Programming (Cultur base programming : That type of programing which is continusly working with so many years) 
+
+2)Object oriented programmming language (That type of language which is run by objects) Example : C++
+
+3)Logical Programimg language : (That type of language which is run logically) Example : Prolog language
+
+4)Functional Programming language : (Use functions for creating software) Example : Python
+
+
+
+3)World Wide Web (WWW)
+
+Konwn as web
+
+Collection of websites and servers 
+
+we request to the server to show something which was our reuirment and this world wild web provide us that information which is we reuired as per our requirments
+
+
+
+4)How internet works?
+
+1) Request for website
+
+2) Search by server for right website and 
+
+3) Show the result as per your requirment 
+
+
+
+5)Network Layers on client and server (Issue)
+
+1)Client Programe : Request for service
+
+2)Server Programe : Provide service
+
+
+
+6)Types of internet connection
+
+1)Digital Subscriber line(Issue)
+2)Cable internet
+3)Wirless internet
+4)Satelite internet
+5)Fiber optics
+6)Broadband over power lines (BPL)
+
+
+7)Protocols
+
+A network protocol is a group of rules accompanied by the network
+Network protocols will be formalized requirments and plans composed of rules,procedures and types that describe communication among a couple device over the network.
+
+Types of protocoles
+1)HTTP OR HTTPS
+2)FTP (File Transfer Protocol)
+3)Email Protocols(POP3,SMTP)
+4)TCP(Transmission Control protocol) and UDP(User Datagram Protocol)
+
+
+
+8)Application Security 
+
+Application security refers to security precautions used at the application level to prevent the theft or hijacking of data or code within the application.
+It includes security concern made at the time of devlopment of application and designing of application
+
+
+
+9)Software Applications and its types
+
+1)Software Applications:
+
+It is type of software application that helps in automation of the task based on the user input.
+It can perform single or multiple taskes at the same period of time.
+Different languages are used to build application software.
+
+2)Application Software:
+
+1)Software Application
+2)Middleware
+3)Programming software
+4)System software
+5)Driver software
+
+
+
+
+10)Software architecture :
+
+Software architecture is a blue print of building software it shows the overall structure of the software, the collection of components in it and how they interact with one another while hiding the implementation.
+
+
+Layers in software Architecture
+
+1)Presentation layer
+2)Application layer
+3)Business layer
+4)Persistance layer
+5)Database layer
+
+
+
+11)Types of programming language
+
+1)Procedural
+2)Object oriented
+3)Functional
+4)Logical
+5)Scripting 
+
+
+12)Source code:
+Source code is the source of computer programe. It contains declaration,instruction,functions,loops and other statments
+
+
+
+13)SDLC Software devlopment lifecycle
+
+1)Planning
+2)Analysing
+3)Designing
+4)Implelmentation
+5)Testing
+6)Maintenence
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
