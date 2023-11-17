@@ -129,3 +129,85 @@ for(counter1;counter2;counter3)
 	}
 }
 
+
+
+
+3)Synat of while loop
+
+intialization
+
+while(condtion)
+
+{
+	statment;
+
+	updation;
+}
+
+
+
+=============================================================================
+
+
+
+Function Synatx:
+
+
+#include<stdio.h>
+
+void display();   ******Function Declaration***********
+
+main()
+
+{
+	display();      ******Function Calling***********
+}
+
+void display() ******Function Defination***********
+
+{
+	code;
+}
+
+
+
+
+1)Function without parameter and without return type
+
+
+#include<stdio.h>
+
+int display() ******Function Defination***********
+
+{
+	code;
+}
+
+main()
+
+{
+	display();      ******Function Calling***********
+}
+
+
+
+
+2)Function with parameters and without return type
+
+
+#include<stdio.h>
+
+int display(parameters) ******Function Defination***********
+
+{
+	code;
+}
+
+main()
+
+{
+	display();      ******Function Calling***********
+}
+
+
+

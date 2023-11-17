@@ -1,0 +1,65 @@
+Class : Class contain data member and member functions in single entity class is a collection of similar objects we can excess the class throug their objects
+
+
+class <classname>
+{
+	variable declaration;
+	member function;
+
+
+};
+
+main()
+
+{
+	classname <objectname>;
+}
+
+
+
+Constructor : It is member function which initializes class
+
+A constructor has:
+same name as class name
+constructor has no return type
+
+Constructor called automatically whenever new instance of class created
+
+
+class <classname>
+{
+	public:
+	variable;
+	constructorname()
+	{
+
+	}
+	
+
+};
+
+main()
+
+{
+	classname <objectname> = constructorname();
+}
+
+
+
+Inheritance: In inhertiance one class properties derived another class called inheritance
+
+There are 5 Types of inheritance
+1)Single level :	1 parent class 1 child class
+2)Multiple  :		1 Grandparent 1 Parent 1 Child
+3)Multilevel :		More than 1 Parent and 1 Child
+4)Herartichal :		1 parent and more than 1 child
+5)Hybrid:		1 grandparent morethan 1 parent and 1 child
+
+
+
+
+this keyword :
+
+this keyword shows 
+
+
