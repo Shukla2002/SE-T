@@ -1,0 +1,37 @@
+1) What is software? What is software engineering?
+
+Ans : Software is a program or set of programs containing instructions that provide desired functionality. And Engineering is the process of designing and building something that serves a particular purpose and finds a cost-effective solution to problems. 
+
+Software Engineering:
+
+Software Engineering is the process of designing, developing, testing, and maintaining software. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2) Explain types of software?
+
+There are 5 types of software
+
+1) Application Software : Paint,Powerpoint
+2)System software : IOS,Android
+3)Driver software : Audio drive,video drive
+4)Middleware : Microsoft
+5)Programming software : Sublime,Visula studio code
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3)What is SDLC? Explain each phase of SDLC
+
+SDLC full form is Software Devlopment Life Cycle
+
+*** Phase of SDLC******
+
+1)Planning : The first step in the software development life cycle is planning. It's when you gather the team to brainstorm, set goals, and identify risks.
+2)Analyzing : Once you've done with planning, it's time to organize them into a cohesive plan and design. This requires a lot of research and planning to ensure that your final product meets your customer expectation
+3)Designing : In this step designing of website and lookout of website is cosnider.
+4)Implementation : The implementation phase is where coding begins to take place. 
+5)Testing : in this stage we need to test it to ensure it is free of bugs and errors. Any issues need to be fixed before moving forward with deployment.
+6)Maintenance : Maintenance involves updating an existing software product to fix bugs and ensure reliability. It can also include adding new features or functionality to a current product.  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
