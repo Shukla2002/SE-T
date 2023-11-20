@@ -1,0 +1,5 @@
+My name is prashant shukla
+my brother name is shivam shukla 
+my mother name is binita shuklaappend method in file management
+[1,2,3,2,2,3,3]
+[1,2,3,2,2,3,3]
